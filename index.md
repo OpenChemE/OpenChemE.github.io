@@ -1,6 +1,6 @@
 ## OpenChemE
 
-Open chemical engineering resources for everyone. Developed by folks at the University of British Columbia.
+Open chemical engineering resources for everyone. Developed by [folks](./team.html) at the University of British Columbia.
 
 ### Teaching
 
@@ -21,3 +21,7 @@ Open chemical engineering resources for everyone. Developed by folks at the Univ
 - [Jeff Kantor](http://jckantor.github.io) University of Notre Dame
 - [John Hedengren](http://apmonitor.com/che436/) BYU - Process Dynamics and Control
 - [CAChemE.org](https://github.com/CAChemE/learn) Chemical and Process Engineering Interactive Simulations
+
+### Contributions
+- We welcome contributions and pull requests. Please create an issue in our GitHub [repository](https://github.com/OpenChemE/OpenChemE.github.io) to provide feedback.
+- UBC students [read this](./team.html) to find out more about paid, part-time positions for Open ChemE.
