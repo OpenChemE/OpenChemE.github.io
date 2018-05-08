@@ -1,4 +1,5 @@
 # OpenChemE Team
+Back to [main page](./index.html).
 
 ### Faculty
 - [Bhushan Gopaluni](http://dais.chbe.ubc.ca/)
