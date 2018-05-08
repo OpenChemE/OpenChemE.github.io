@@ -1,6 +1,6 @@
 ## OpenChemE
 
-Open chemical engineering resources for everyone. Developed by [folks](./team.html) at the University of British Columbia.
+Open chemical engineering resources for everyone. Developed by [folks](team.md) at the University of British Columbia.
 
 ### Teaching
 
