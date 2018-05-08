@@ -15,3 +15,9 @@ Open chemical engineering resources for everyone. Developed by folks at the Univ
 - [UBC APSC News](https://apsc.ubc.ca/news/2017/11/open-education-stories-creating-and-reusing-problems-using-oer) Creating and reusing problems using OER (November 2017)
 - [BCCampus Open Education Grants](https://bccampus.ca/2017/07/13/bccampus-is-pleased-to-announce-the-2017-open-education-grant-recipients/) OER Grant Recipient (July 2017)
 - [TLEF Grant 2017/2018](https://tlef.ubc.ca/funded-proposals/entry/19/) Open ChemE: Increasing authentic student learning through open educational resources (April 2017)
+
+### Chemical Engineering Resources
+
+- [Jeff Kantor](http://jckantor.github.io) University of Notre Dame
+- [John Hedengren](http://apmonitor.com/che436/) BYU - Process Dynamics and Control
+- [CAChemE.org](https://github.com/CAChemE/learn) Chemical and Process Engineering Interactive Simulations
