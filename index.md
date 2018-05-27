@@ -9,12 +9,12 @@ Open chemical engineering resources for everyone. Developed by [folks](team.md) 
 
 ### News
 
-- [TLEF Grant 18/19 - WebWorK](https://tlef.ubc.ca/funded-proposals/entry/197/) Flash Feedback for Second-Year Engineering (FF2E): Personalized Experiential Learning with Instant Feedback Through Shared WeBWorK Resources (March 2018)
-- [TLEF Grant 18/19 - Python](https://tlef.ubc.ca/funded-proposals/entry/198/) Math Doesn’t Need to Be Hard: Integrating Experiential Learning and Interactive Online Resources for Chemical Engineering (March 2018)
-- [UBC Open Dialogues](https://open.ubc.ca/open-dialogues-how-to-use-open-tools-and-resources-for-problem-sets/) How to use open tools and resources for problem sets (November 2017)
-- [UBC APSC News](https://apsc.ubc.ca/news/2017/11/open-education-stories-creating-and-reusing-problems-using-oer) Creating and reusing problems using OER (November 2017)
-- [BCCampus Open Education Grants](https://bccampus.ca/2017/07/13/bccampus-is-pleased-to-announce-the-2017-open-education-grant-recipients/) OER Grant Recipient (July 2017)
-- [TLEF Grant 2017/2018](https://tlef.ubc.ca/funded-proposals/entry/19/) Open ChemE: Increasing authentic student learning through open educational resources (April 2017)
+- __*March 2018*__ [TLEF Grant 18/19 - WebWorK](https://tlef.ubc.ca/funded-proposals/entry/197/) Flash Feedback for Second-Year Engineering (FF2E): Personalized Experiential Learning with Instant Feedback Through Shared WeBWorK Resources
+- __*March 2018*__ [TLEF Grant 18/19 - Python](https://tlef.ubc.ca/funded-proposals/entry/198/) Math Doesn’t Need to Be Hard: Integrating Experiential Learning and Interactive Online Resources for Chemical Engineering
+- __*November 2017*__ [UBC Open Dialogues](https://open.ubc.ca/open-dialogues-how-to-use-open-tools-and-resources-for-problem-sets/) How to use open tools and resources for problem sets
+- __*November 2017*__ [UBC APSC News](https://apsc.ubc.ca/news/2017/11/open-education-stories-creating-and-reusing-problems-using-oer) Creating and reusing problems using OER
+- __*July 2017*__ [BCCampus Open Education Grants](https://bccampus.ca/2017/07/13/bccampus-is-pleased-to-announce-the-2017-open-education-grant-recipients/) OER Grant Recipient
+- __*April 2017*__ [TLEF Grant 2017/2018](https://tlef.ubc.ca/funded-proposals/entry/19/) Open ChemE: Increasing authentic student learning through open educational resources
 
 ### Chemical Engineering Resources
 
