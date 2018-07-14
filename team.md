@@ -1,5 +1,5 @@
 # OpenChemE Team
-Back to [main page](index.md).
+Back to [main page](README.md).
 
 ### Faculty
 - [Bhushan Gopaluni](http://dais.chbe.ubc.ca/)
