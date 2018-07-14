@@ -22,6 +22,7 @@ Open chemical engineering resources for everyone. Developed by [folks](team.md) 
 
 - [Jeff Kantor](http://jckantor.github.io) University of Notre Dame
 - [John Hedengren](http://apmonitor.com/che436/) BYU - Process Dynamics and Control
+- [Bart De Moor](http://homes.esat.kuleuven.be/~maapc/) KU Leuven - APC & Systems Identification
 - [CAChemE.org](https://github.com/CAChemE/learn) Chemical and Process Engineering Interactive Simulations
 
 ### Contributions
