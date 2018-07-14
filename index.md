@@ -7,6 +7,7 @@ Open chemical engineering resources for everyone. Developed by [folks](team.md) 
 - [CHBE241 Wiki](http://wiki.ubc.ca/Course:CHBE241) Material and Energy Balances
 - [CHBE241 Online Textbook](http://chbe241.github.io) Material and Energy Balances
 - [CHBE356](https://opencheme.github.io/CHBE356/) Process Dynamics and Control
+- [CHBE355](https://opencheme.github.io/CHBE355/) Kinetics and Reactor Design
 
 ### News
 
