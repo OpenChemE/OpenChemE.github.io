@@ -27,4 +27,4 @@ Open chemical engineering resources for everyone. Developed by [folks](team.md) 
 
 ### Contributions
 - We welcome contributions and pull requests. Please create an issue in our GitHub [repository](https://github.com/OpenChemE/OpenChemE.github.io) to provide feedback.
-- UBC students [read this](./team.html) to find out more about paid, part-time positions for Open ChemE.
+- UBC students [read this](./team.md) to find out more about paid, part-time positions for Open ChemE.
