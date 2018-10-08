@@ -11,7 +11,7 @@ Back to [main page](README.md).
 - [Yiting Tsai](http://dais.chbe.ubc.ca/members/Yiting%20Tsai/) - Process Control
 - [Athanasios Kritharis](https://www.linkedin.com/in/athanasios-kritharis-180693a5) - Hardware
 - [Siang Lim](https://www.siang.ca) - Software
-
+- [Ngai To Lo](http://www.ngaito.ca) - Software
 ### Summer Students and Alumni
 - Ngai To Lo - Materials and Energy Balance (Summer 2017)
 - Said Zaid - Materials and Energy Balance (Summer 2017)
